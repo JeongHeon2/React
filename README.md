@@ -155,7 +155,7 @@ imp userid=계정명/비밀번호 file="C:\경로\파일명.dmp" full=y;
 
 ✅ 예시
 
-imp userid=logi80vue/logi80vue file="C:\Users\wjdgj\OneDrive\바탕 화면\It Project\reactLogi\react.dmp" full=y;
+imp userid=reactproject/reactproject file="C:\Users\wjdgj\OneDrive\바탕 화면\It Project\reactLogi\react.dmp" full=y;
 
 🛠 Front-End 설치 명령어 후 실행 명령어
 
