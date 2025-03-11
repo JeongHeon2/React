@@ -133,9 +133,9 @@ GRANT CONNECT, RESOURCE, DBA TO 계정명;
 
 ✅ 예시
 
-CREATE USER hr80hr IDENTIFIED BY hr80hr DEFAULT TABLESPACE system;
+CREATE USER reactproject IDENTIFIED BY reactproject DEFAULT TABLESPACE system;
 
-GRANT CONNECT, RESOURCE, DBA TO hr80hr;
+GRANT CONNECT, RESOURCE, DBA TO reactproject;
 
 3️⃣ 사용자 계정으로 접속
 
@@ -143,7 +143,7 @@ conn 계정명/비밀번호
 
 ✅ 예시
 
-conn hr80hr/hr80hr
+conn reactproject/reactproject
 
 이후 SQLPLUS 종료
 
